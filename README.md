@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahad09fahim" alt="fahad09fahim" /></a> </p>
 
-- 🔭 I’m currently working on [Phone Hunter](https://github.com/fahad09fahim/recap-2024)
+- 🔭 I’m currently working on [Fin Trackr](https://github.com/fahad09fahim/fin-trackr)
 
 - 🌱 I’m currently learning **C, C++,Data Structures and Algorithms, Python, Next JS, Typescript.**
 
