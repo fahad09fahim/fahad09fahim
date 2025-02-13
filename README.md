@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Fin Trackr](https://github.com/fahad09fahim/fin-trackr)
 
-- 🌱 I’m currently learning **C, C++,Data Structures and Algorithms, Python, Next JS, Typescript.**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Python, c#, Next JS, Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://devfahim.netlify.app/](https://devfahim.netlify.app/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1prAvXoN0BVT9r6RxQBYgLZq45VimxD8_/view](https://drive.google.com/file/d/1prAvXoN0BVT9r6RxQBYgLZq45VimxD8_/view)
 
-- ⚡ Fun fact **"I am a dedicated person and I love to explore new things."**
+- ⚡ Fun fact **"I wanna be a ML Engineer"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
