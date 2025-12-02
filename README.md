@@ -1,11 +1,8 @@
-<img align="center" alt="Coding" width="100%" height="75%"  src="gitbg.png">
 <h1 align="center">Hi 👋, I'm Md. Fahad Al Fahim</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad09fahim&label=Profile%20views&color=0e75b6&style=flat" alt="fahad09fahim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahad09fahim" alt="fahad09fahim" /></a> </p>
-
-- 🔭 I’m currently working on [Fin Trackr](https://github.com/fahad09fahim/fin-trackr)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Python, c#, Next JS, Typescript.**
 
@@ -17,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1prAvXoN0BVT9r6RxQBYgLZq45VimxD8_/view](https://drive.google.com/file/d/1prAvXoN0BVT9r6RxQBYgLZq45VimxD8_/view)
 
-- ⚡ Fun fact **"I wanna be a ML Engineer"**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
